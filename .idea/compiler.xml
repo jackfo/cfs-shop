@@ -6,9 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cfs-common-pojo" />
         <module name="cfs-shop-admin" />
-        <module name="cfs-shop-dao" />
+        <module name="cfs-shop-common" />
+        <module name="cfs-shop-mapper" />
+        <module name="cfs-shop-service-admin" />
+        <module name="cfs-shop-service-admin-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cfs-shop-service" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

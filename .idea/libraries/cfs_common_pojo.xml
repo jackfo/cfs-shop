@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cfs-common-pojo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cfs-common-pojo/target/cfs-common-pojo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
