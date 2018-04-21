@@ -1,10 +1,12 @@
 package com.whpu.controller;
 
 
+import com.whpu.pojo.SysUser;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
+@RequestMapping("/login")
 public class LoginController {
 
     @RequestMapping("/to_login")
@@ -13,10 +15,11 @@ public class LoginController {
         return "login";
     }
 
-    @RequestMapping("/login")
-    public String doLogin(){
+    @RequestMapping("/do_login")
+    public String doLogin(SysUser sysUser){
+
         System.out.print("doLogin方法。。。");
-        return "s";
+        return "";
     }
 
 //    @RequestMapping("/do_login")
