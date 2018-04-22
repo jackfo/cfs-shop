@@ -2,7 +2,7 @@
 <!DOCTYPE mycat:schema SYSTEM "schema.dtd">
 <mycat:schema xmlns:mycat="http://org.opencloudb/" >
 
-	<schema name="TESTDB" checkSQLschema="false" sqlMaxLimit="100">
+	<schema name="cshop" checkSQLschema="false" sqlMaxLimit="100">
 		<!-- auto sharding by id (long) -->
 		<table name="sys_user" dataNode="dn1,dn2" primaryKey="id"  rule="mod-int"  />
 

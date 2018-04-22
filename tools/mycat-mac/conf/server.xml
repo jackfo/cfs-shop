@@ -29,17 +29,17 @@
 			<property name="processors">32</property> <property name="processorExecutor">32</property>
 			<property name="serverPort">8066</property> <property name="managerPort">9066</property>
 			<property name="idleTimeout">300000</property> <property name="bindIp">0.0.0.0</property>
-			<property name="frontWriteQueueSize">4096</property> <property name="processors">32</property> -->
+			<property name="frontWriteQueueSize">4096</property> <property name="processors">32</proerty> -->
 	</system>
 	<!--设置用户名密码-->
-	<user name="test">
-		<property name="password">test</property>
-		<property name="schemas">TESTDB</property>
+	<user name="root">
+		<property name="password">fadp</property>
+		<property name="schemas">cshop</property>
 	</user>
 
 	<user name="user">
 		<property name="password">user</property>
-		<property name="schemas">TESTDB</property>
+		<property name="schemas">cshop</property>
 		<property name="readOnly">true</property>
 	</user>
 	<!-- 
