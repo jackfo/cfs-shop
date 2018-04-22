@@ -12,6 +12,8 @@
         <module name="cfs-shop-mapper" />
         <module name="cfs-shop-service-admin" />
         <module name="cfs-shop-service-admin-api" />
+        <module name="cfs-shop-shiro" />
+        <module name="cfs-shop-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

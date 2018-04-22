@@ -34,15 +34,15 @@
     </head>
 <body>
 
-<form name="loginForm" id="loginForm" method="post"  style="width:30%; margin:0 auto;">
+<form name="loginForm" id="loginForm" method="post" action="do_login"  style="width:30%; margin:0 auto;">
 
 	<h2 style="text-align:center; margin-bottom: 20px">用户登录</h2>
 	
 	<div class="form-group">
        	<div class="row">
-	       	<label class="form-label col-md-4">请输入手机号码</label>
+	       	<label class="form-label col-md-4">工号</label>
 	        <div class="col-md-8">
-	        	<input id="mobile" name = "mobile" class="form-control" type="text" placeholder="账号" required="true"  />
+	        	<input id="userLoginId" name = "userLoginId" class="form-control" type="text" placeholder="工号" required="true"  />
 	    	</div>
 	    	<div class="col-md-1">
 	    	</div>
@@ -51,7 +51,7 @@
     
     <div class="form-group">
      		<div class="row">
-		        <label class="form-label col-md-4">请输入密码</label>
+		        <label class="form-label col-md-4">密码</label>
 		        <div class="col-md-8">
 		        	<input id="password" name="password" class="form-control" type="password"  placeholder="密码" required="true"  />
 	       		</div>
@@ -63,7 +63,7 @@
 	       	 		<button class="btn btn-primary btn-block" type="reset" onclick="reset()">重置</button>
 	       	 	</div>
 	       	 	<div class="col-md-6">
-	       	 		<button class="btn btn-primary btn-block" type="submit" onclick="login()">登录</button>
+	       	 		<button class="btn btn-primary btn-block" type="submit" onclick="to_login()">登录</button>
 	       	 	</div>
 	 </div>
 	 
@@ -80,23 +80,23 @@ function login(){
 function doLogin(){
 	g_showLoading();
 	
-	var inputPass = $("#password").val();
-	var salt = g_passsword_salt;
-	var str = ""+salt.charAt(0)+salt.charAt(2) + inputPass +salt.charAt(5) + salt.charAt(4);
-	var password = md5(str);
+	var password = $("#password").val();
+	// var salt = g_passsword_salt;
+	// var str = ""+salt.charAt(0)+salt.charAt(2) + inputPass +salt.charAt(5) + salt.charAt(4);
+	// var password = md5(str);
 	
 	$.ajax({
-		url: "/login/do_login",
+		url: "do_login",
 	    type: "POST",
 	    data:{
-	    	mobile:$("#mobile").val(),
+            userLoginId:$("#userLoginId").val(),
 	    	password: password
 	    },
 	    success:function(data){
 	    	layer.closeAll();
 	    	if(data.code == 0){
 	    		layer.msg("成功");
-	    		window.location.href="/goods/to_list";
+	    		window.location.href="/index";
 	    	}else{
 	    		layer.msg(data.msg);
 	    	}

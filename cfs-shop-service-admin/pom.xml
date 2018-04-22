@@ -21,13 +21,29 @@
         </dependency>
         <dependency>
             <groupId>com.whpu</groupId>
-            <artifactId>cfs-shop-mapper</artifactId>
+            <artifactId>cfs-shop-service-admin-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.whpu</groupId>
-            <artifactId>cfs-shop-service-admin-api</artifactId>
+            <artifactId>cfs-shop-mapper</artifactId>
             <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.github.pagehelper/pagehelper-spring-boot-starter -->
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper-spring-boot-starter</artifactId>
+            <version>1.2.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+            <version>5.1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.activation</groupId>
+            <artifactId>activation</artifactId>
+            <version>1.1</version>
         </dependency>
     </dependencies>
 

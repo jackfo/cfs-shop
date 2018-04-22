@@ -2,774 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8f1ea2b-6736-4988-a834-4fdd77809aba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/goods_detail.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/img/bg2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/img/iphone8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/img/iphonex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/img/meta10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/img/mi6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/jquery-validation/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/jquery-validation/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/jquery-validation/localization/messages_zh.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/js/md5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/mobile/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/mobile/need/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/skin/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/skin/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/skin/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/skin/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/skin/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/layer/skin/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/order_detail.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/goods_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/goods_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/miaosha_fail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/order_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/bin/mycat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/bin/rehash.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/bin/startup_nowrap.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/bin/wrapper-linux-ppc-64" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/bin/wrapper-linux-x86-32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/bin/wrapper-linux-x86-64" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/autopartition-long.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/cacheservice.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/index_to_charset.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/myid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/partition-hash-int.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/partition-range-mod.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/router.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/rule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/schema.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/sequence_conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/sequence_db_conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/sequence_time_conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/wrapper.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/conf/zk-create.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/Mycat-server-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/curator-client-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/curator-framework-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/druid-1.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/ehcache-core-2.6.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/fastjson-1.2.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/guava-18.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/jline-0.9.94.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/json-20151123.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/leveldb-0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/leveldb-api-0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/libwrapper-linux-ppc-64.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/libwrapper-linux-x86-32.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/libwrapper-linux-x86-64.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/mapdb-1.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/mongo-java-driver-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/netty-3.7.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/sequoiadb-java-driver-1.0-20150615.070208-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/slf4j-api-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/snakeyaml-1.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/univocity-parsers-1.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/xml-apis-1.0.b2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/lib/zookeeper-3.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-linux/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/init_zk_data.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/mycat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/rehash.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/startup_nowrap.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/wrapper-macosx-ppc-32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/wrapper-macosx-universal-32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/wrapper-macosx-universal-64" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/bin/xml_to_yaml.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/autopartition-long.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/cacheservice.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/index_to_charset.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/myid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/partition-hash-int.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/partition-range-mod.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/router.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/rule.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/schema.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/sequence_conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/sequence_db_conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/sequence_time_conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/wrapper.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/zk-create.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/Mycat-server-1.5.1-RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/curator-client-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/curator-framework-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/druid-1.0.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/ehcache-core-2.6.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/fastjson-1.2.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/guava-18.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/jline-0.9.94.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/json-20151123.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/leveldb-0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/leveldb-api-0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/libwrapper-macosx-ppc-32.jnilib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/libwrapper-macosx-universal-32.jnilib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/libwrapper-macosx-universal-64.jnilib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/mapdb-1.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/mongo-java-driver-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/netty-3.7.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/sequoiadb-java-driver-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/slf4j-api-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/snakeyaml-1.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/univocity-parsers-1.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/xml-apis-1.0.b2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/lib/zookeeper-3.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mycat-mac/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/00-RELEASENOTES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/BUGS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/CONTRIBUTING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/INSTALL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/MANIFESTO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/ae.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/glib.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/ivykis.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/libev.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/libevent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/libuv.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/macosx.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/adapters/qt.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/async.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/async.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/dict.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/dict.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-ae.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-glib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-ivykis.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-libev.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-libevent.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-libuv.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-macosx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-qt.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example-qt.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/examples/example.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/fmacros.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/hiredis.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/hiredis.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/net.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/net.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/read.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/read.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/sds.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/sds.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/sdsalloc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/hiredis/win32.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/.autom4te.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/ChangeLog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/INSTALL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/Makefile.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/autogen.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/bin/jemalloc-config.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/bin/jemalloc.sh.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/bin/jeprof.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/config.guess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/config.stamp.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/config.sub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/configure.ac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/coverage.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/doc/html.xsl.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/doc/jemalloc.xml.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/doc/manpages.xsl.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/doc/stylesheet.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/arena.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/atomic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/base.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/bitmap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/chunk.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/chunk_dss.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/chunk_mmap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/ckh.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/ctl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/extent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/hash.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/huge.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/jemalloc_internal.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/jemalloc_internal_decls.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/jemalloc_internal_defs.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/jemalloc_internal_macros.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/mb.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/mutex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/pages.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/private_namespace.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/private_symbols.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/private_unnamespace.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/prng.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/prof.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/public_namespace.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/public_unnamespace.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/ql.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/qr.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/quarantine.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/rb.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/rtree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/size_classes.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/stats.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/tcache.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/tsd.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/util.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/internal/valgrind.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/jemalloc.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/jemalloc_defs.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/jemalloc_macros.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/jemalloc_mangle.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/jemalloc_protos.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/jemalloc_rename.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/jemalloc/jemalloc_typedefs.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/msvc_compat/C99/stdbool.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/msvc_compat/C99/stdint.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/msvc_compat/strings.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/include/msvc_compat/windows_extra.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/install-sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/jemalloc.pc.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/arena.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/atomic.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/base.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/bitmap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/chunk.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/chunk_dss.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/chunk_mmap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/ckh.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/ctl.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/extent.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/hash.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/huge.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/jemalloc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/mb.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/mutex.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/pages.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/prof.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/quarantine.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/rtree.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/stats.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/tcache.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/tsd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/util.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/valgrind.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/src/zone.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-alti.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params11213.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params1279.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params132049.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params19937.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params216091.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params2281.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params4253.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params44497.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params607.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-params86243.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT-sse2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/SFMT.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/btalloc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/jemalloc_test.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/jemalloc_test_defs.h.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/math.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/mq.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/mtx.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/test.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/thd.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/include/test/timer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/MALLOCX_ARENA.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/aligned_alloc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/allocated.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/chunk.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/mallocx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/overflow.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/posix_memalign.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/rallocx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/sdallocx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/thread_arena.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/thread_tcache_enabled.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/integration/xallocx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/SFMT.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/btalloc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/btalloc_0.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/btalloc_1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/math.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/mq.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/mtx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/thd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/src/timer.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/stress/microbench.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/test.sh.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/SFMT.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/atomic.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/bitmap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/ckh.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/hash.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/junk.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/junk_alloc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/junk_free.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/lg_chunk.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/mallctl.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/math.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/mq.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/mtx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/prof_accum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/prof_active.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/prof_gdump.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/prof_idump.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/prof_reset.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/prof_thread_name.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/ql.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/qr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/quarantine.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/rb.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/rtree.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/size_classes.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/stats.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/tsd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/util.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/jemalloc/test/unit/zero.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/linenoise/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/linenoise/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/linenoise/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/linenoise/example.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/linenoise/linenoise.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/linenoise/linenoise.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/HISTORY" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/INSTALL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/contents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/cover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/lua.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/lua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/lua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/luac.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/luac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/manual.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/manual.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/doc/readme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/all.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/lua.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/lua.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/lua.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/luavs.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/min.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/noparser.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/etc/strict.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/fpconv.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/fpconv.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lapi.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lapi.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lauxlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lauxlib.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lbaselib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lcode.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lcode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ldblib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ldebug.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ldebug.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ldo.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ldo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ldump.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lfunc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lfunc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lgc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lgc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/linit.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/liolib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/llex.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/llex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/llimits.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lmathlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lmem.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lmem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/loadlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lobject.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lobject.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lopcodes.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lopcodes.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/loslib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lparser.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lparser.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lstate.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lstate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lstring.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lstring.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lstrlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ltable.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ltable.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ltablib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ltm.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/ltm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lua.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lua.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lua_bit.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lua_cjson.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lua_cmsgpack.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lua_struct.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/luac.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/luaconf.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lualib.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lundump.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lundump.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lvm.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lvm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lzio.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/lzio.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/print.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/strbuf.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/src/strbuf.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/bisect.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/cf.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/echo.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/env.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/factorial.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/fib.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/fibfor.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/globals.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/hello.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/life.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/luac.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/printf.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/readonly.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/sieve.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/sort.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/table.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/trace-calls.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/trace-globals.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/lua/test/xd.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/deps/update-jemalloc.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/redis.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/runtest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/runtest-cluster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/runtest-sentinel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/sentinel.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/adlist.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/adlist.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ae.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ae.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ae_epoll.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ae_evport.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ae_kqueue.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ae_select.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/anet.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/anet.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/aof.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/asciilogo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/atomicvar.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/bio.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/bio.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/bitops.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/blocked.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/childinfo.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/cluster.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/cluster.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/config.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/crc16.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/crc64.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/crc64.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/db.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/debug.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/debugmacro.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/defrag.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/dict.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/dict.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/endianconv.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/endianconv.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/evict.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/expire.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/fmacros.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/geo.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/geo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/geohash.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/geohash.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/geohash_helper.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/geohash_helper.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/help.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/hyperloglog.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/intset.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/intset.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/latency.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/latency.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/lazyfree.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/lzf.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/lzfP.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/lzf_c.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/lzf_d.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/memtest.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/mkreleasehdr.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/module.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/modules/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/modules/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/modules/gendoc.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/modules/helloblock.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/modules/hellotype.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/modules/helloworld.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/modules/testmodule.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/multi.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/networking.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/notify.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/object.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/pqsort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/pqsort.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/pubsub.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/quicklist.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/quicklist.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rand.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rand.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rax.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rax.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rax_malloc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rdb.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rdb.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/redis-benchmark.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/redis-check-aof.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/redis-check-rdb.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/redis-cli.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/redis-trib.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/redisassert.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/redismodule.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/release.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/replication.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rio.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/rio.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/scripting.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sds.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sds.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sdsalloc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sentinel.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/server.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/server.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/setproctitle.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sha1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sha1.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/siphash.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/slowlog.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/slowlog.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/solarisfixes.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sparkline.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/sparkline.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/syncio.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/t_hash.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/t_list.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/t_set.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/t_string.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/t_zset.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/testhelp.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/util.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/util.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/valgrind.sup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/version.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ziplist.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/ziplist.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/zipmap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/zipmap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/zmalloc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/src/zmalloc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/assets/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/assets/encodings.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/assets/hash-zipmap.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/cluster.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/run.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/00-base.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/01-faildet.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/02-failover.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/03-failover-loop.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/04-resharding.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/05-slave-selection.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/06-slave-stop-cond.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/07-replica-migration.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/08-update-msg.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/09-pubsub.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/10-manual-failover.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/11-manual-takeover.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/12-replica-migration-2.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/13-no-failover-option.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/helpers/onlydots.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tests/includes/init-tests.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/cluster/tmp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/helpers/bg_complex_data.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/helpers/gen_write_load.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/instances.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/aof-race.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/aof.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/convert-zipmap-hash-on-load.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/logging.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/psync2-reg.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/psync2.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/rdb.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/redis-cli.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/replication-2.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/replication-3.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/replication-4.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/replication-psync.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/integration/replication.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/run.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/00-base.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/01-conf-update.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/02-slaves-reconf.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/03-runtime-reconf.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/04-slave-selection.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/05-manual.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/06-ckquorum.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/07-down-conditions.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tests/includes/init-tests.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/sentinel/tmp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/support/cluster.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/support/redis.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/support/server.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/support/test.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/support/tmpfile.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/support/util.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/test_helper.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/aofrw.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/auth.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/bitfield.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/bitops.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/dump.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/expire.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/geo.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/hyperloglog.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/introspection-2.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/introspection.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/keyspace.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/latency-monitor.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/lazyfree.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/limits.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/maxmemory.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/memefficiency.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/multi.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/obuf-limits.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/other.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/printver.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/protocol.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/pubsub.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/quit.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/scan.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/scripting.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/slowlog.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/sort.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/hash.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/incr.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/list-2.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/list-3.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/list-common.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/list.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/set.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/string.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/type/zset.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/tests/unit/wait.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/build-static-symbols.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/cluster_fail_time.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/corrupt_rdb.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/create-cluster/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/create-cluster/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/create-cluster/create-cluster" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/generate-command-help.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/graphs/commits-over-time/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/graphs/commits-over-time/genhtml.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/hashtable/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/hashtable/rehashing.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/hyperloglog/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/hyperloglog/hll-err.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/hyperloglog/hll-gnuplot-graph.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/install_server.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/lru/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/lru/lfu-simulation.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/lru/test-lru.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/redis-copy.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/redis-sha1.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/redis_init_script" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/redis_init_script.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/releasetools/01_create_tarball.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/releasetools/02_upload_tarball.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/releasetools/03_test_release.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/releasetools/04_release_hash.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/releasetools/changelog.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/speed-regression.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis-4.0.9/utils/whatisdoing.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/dump.rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-benchmark" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-benchmark.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-benchmark.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-check-aof" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-check-aof.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-check-aof.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-check-rdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-check-rdb.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-check-rdb.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-cli" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-cli.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-cli.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-sentinel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis-trib.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/redis/redis.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/CmDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/CmDepartmentEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/CmEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/SysPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/SysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/SysRolePermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/SysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/model/SysUserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/exception/MsgException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json/CodeMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json/HttpResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentEmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentEmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmEmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmEmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysPermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysPermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRolePermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRolePermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/IDepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/IEmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/IRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/ISysPermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/ISysUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysPermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/redeme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/MySessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/UserShiroRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/AuthCachePrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/BaseRedisManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/IRedisManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/RedisCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/RedisCacheManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/RedisClusterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/RedisManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/RedisSentinelManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/RedisSessionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/SessionInMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/exception/PrincipalInstanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/exception/SerializationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/serializer/ObjectSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/serializer/RedisSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/org/crazycake/shiro/serializer/StringSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-shiro/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-web/cfs-shop-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfs-shop-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/pojo/SysUser.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cfs-shop-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/CfsAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/CfsAdminApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/Login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools/mycat-mac/conf/redeme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/to_login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cfs-shop-admin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redeme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-admin/target/classes/com/whpu/CfsAdminApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-admin/target/classes/com/whpu/CfsAdminApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-mapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-mapper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-mapper/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/SysUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-service-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-service-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/miaosha.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/miaosha.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -783,6 +95,8 @@
     <ignored path="$PROJECT_DIR$/cfs-shop-service/target/" />
     <ignored path="$PROJECT_DIR$/cfs-shop-service-admin-api/target/" />
     <ignored path="$PROJECT_DIR$/cfs-shop-service-admin/target/" />
+    <ignored path="$PROJECT_DIR$/cfs-shop-shiro/target/" />
+    <ignored path="$PROJECT_DIR$/cfs-shop-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -792,76 +106,105 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mycat" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/mycat">
+      <file leaf-file-name="CfsAdminApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/CfsAdminApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1629">
-              <caret line="440" selection-start-line="440" selection-end-line="440" selection-end-column="8" />
+            <state relative-caret-position="188">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rehash.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/rehash.sh">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="xml_to_yaml.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/xml_to_yaml.sh">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="startup_nowrap.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-linux/bin/startup_nowrap.sh">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1517" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ae.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/redis-4.0.9/src/ae.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="140">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/server.xml">
+      <file leaf-file-name="ApplicationFilterChain.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.28/tomcat-embed-core-8.5.28.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvocableHandlerMethod.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="217" selection-start-line="217" selection-end-line="217" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="to_login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/to_login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mycat.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/logs/mycat.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="console.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/logs/console.log">
+      <file leaf-file-name="UserShiroRealm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/UserShiroRealm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1125" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rule.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/rule.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            <state relative-caret-position="266">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schema.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/schema.xml">
+      <file leaf-file-name="ShiroConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/ShiroConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="6" column="80" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
+            <state relative-caret-position="69">
+              <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -871,8 +214,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -892,11 +235,27 @@
       <find>stop</find>
       <find>8066</find>
       <find>function name=&quot;mod-long&quot;</find>
+      <find>D</find>
+      <find>TestD</find>
       <find>mod-long</find>
+      <find>test</find>
+      <find>TESTDB</find>
+      <find>PageInfo</find>
+      <find>netty</find>
+      <find>RedisSessionDAO</find>
+      <find>com.zaxxer.hikari.HikariDataSource</find>
+      <find>ses</find>
+      <find>CmDepartmentMapper</find>
+      <find>shirFilter</find>
+      <find>com.github.sys</find>
+      <find>com.whpu.mapper</find>
+      <find>securityManager</find>
+      <find>do_login</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>cfs_ms</replace>
+      <replace>com.whpu</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -905,43 +264,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/banner.txt" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/BaseController.java" />
-        <option value="$PROJECT_DIR$/redeme.md" />
-        <option value="$PROJECT_DIR$/ccfs-shop-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentEmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmEmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysPermissionMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRoleMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRolePermissionMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserRoleMapper.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/ISysPermissionService.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/MyUserDetailService.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/sql/miaosha.sql" />
-        <option value="$PROJECT_DIR$/sql/readme.txt" />
-        <option value="$PROJECT_DIR$/cfs-shop-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/cfs-shop-common/pom.xml" />
-        <option value="$PROJECT_DIR$/cfs-common-pojo/src/main/java/SysUser.java" />
-        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/SysUserMapper.java" />
-        <option value="$PROJECT_DIR$/cfs-shop-service-admin-api/pom.xml" />
-        <option value="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/SysUserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/SysUserService.java" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/Login.css" />
-        <option value="$PROJECT_DIR$/cfs-shop-service-admin/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/error.jsp" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/error.html" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/CfsAdminApplication.java" />
-        <option value="$PROJECT_DIR$/cfs-shop-service-admin/pom.xml" />
-        <option value="$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/pojo/SysUser.java" />
-        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/SysUserMapper.java" />
-        <option value="$PROJECT_DIR$/cfs-common-pojo/pom.xml" />
         <option value="$PROJECT_DIR$/cfs-shop-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/cfs-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/target/classes/application.yml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/datasource/ShiroDatasourceConfig.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/pom.xml" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login.html" />
-        <option value="$PROJECT_DIR$/tools/mycat-mac/conf/redeme.txt" />
-        <option value="$PROJECT_DIR$/tools/redis-4.0.9/src/ae.c" />
-        <option value="$PROJECT_DIR$/tools/mycat-mac/logs/console.log" />
-        <option value="$PROJECT_DIR$/tools/mycat-mac/conf/server.xml" />
-        <option value="$PROJECT_DIR$/tools/mycat-mac/conf/schema.xml" />
-        <option value="$PROJECT_DIR$/tools/mycat-mac/conf/rule.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentEmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmEmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysPermissionMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRoleMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRolePermissionMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserRoleMapper.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/UserShiroRealm.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/DepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/EmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysPermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysRoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/MySessionManager.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/CfsAdminApplication.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login1.html" />
+        <option value="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json/Result.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json/HttpResponse.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/exception/MsgExcetion.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/exception/MsgException.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json/CodeMsg.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/cfs-shop-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/to_login.html" />
       </list>
     </option>
   </component>
@@ -967,64 +340,35 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-common-pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cfs-shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cfs-shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cfs-shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-common-pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cfs-shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-common-pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="jar" type="36feed69:MavenProjectsStructure$PluginNode" />
+          <item name="cfs-shop-mapper" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-common-pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cfs-shop-mapper" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="spring-boot" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cfs-shop-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cfs-shop-mapper" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
@@ -1086,60 +430,25 @@
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="whpu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-service-admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-service-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-service-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-service-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1147,7 +456,7 @@
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-service-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1156,46 +465,42 @@
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="cfs-shop-service-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="whpu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="mycat-mac" type="462c0819:PsiDirectoryNode" />
+              <item name="cfs-shop-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="mycat-mac" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="mycat-mac" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cfs-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cfs-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="mycat-mac" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -1207,7 +512,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="Controller&#9;PSI&#9;JAVA://javafx.fxml.FXMLLoader#controllerAccessor&#10;suffix&#9;PSI&#9;JAVA://org.springframework.http.HttpRange.SuffixByteRange" />
+    <property name="SearchEverywhereHistoryKey" value="CmDepartmentMapper&#9;FILE&#9;file:///project/cfs-shop/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentMapper.java&#10;characterEncodingFilter&#9;PSI&#9;JAVA://org.springframework.web.filter.CharacterEncodingFilter&#10;Controller&#9;PSI&#9;JAVA://javafx.fxml.FXMLLoader#controllerAccessor&#10;suffix&#9;PSI&#9;JAVA://org.springframework.http.HttpRange.SuffixByteRange" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1219,10 +524,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tools" />
-      <recent name="$PROJECT_DIR$/cfs-shop-admin/src/main/resources" />
-      <recent name="$PROJECT_DIR$/cfs-shop-service-admin/src/main/resources" />
-      <recent name="$PROJECT_DIR$/sql" />
+      <recent name="$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json" />
+      <recent name="$PROJECT_DIR$/cfs-shop-shiro/src/main/java" />
+      <recent name="$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro" />
+      <recent name="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/github" />
+      <recent name="$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/fr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1244,7 +550,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whpu.pojo.*" />
+          <option name="PATTERN" value="com.whpu.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1388,6 +694,54 @@
         </option>
       </MavenSettings>
     </configuration>
+    <configuration name="cfs-shop-common [install:install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/cfs-shop-common" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="cfs-shop-mapper [install:install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/cfs-shop-mapper" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
     <configuration name="cfs-shop-service-admin-api [install:install]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -1442,6 +796,8 @@
       <item itemvalue="Maven.cfs-shop [install:install] (1)" />
       <item itemvalue="Maven.cfs-shop-admin [install:install]" />
       <item itemvalue="Application.CfsAdminApplication" />
+      <item itemvalue="Maven.cfs-shop-mapper [install:install]" />
+      <item itemvalue="Maven.cfs-shop-common [install:install]" />
     </list>
     <recent_temporary>
       <list>
@@ -1460,7 +816,7 @@
       <option name="presentableId" value="Default" />
       <updated>1524278810659</updated>
       <workItem from="1524278814670" duration="19479000" />
-      <workItem from="1524304586226" duration="10086000" />
+      <workItem from="1524304586226" duration="39314000" />
     </task>
     <task id="LOCAL-00001" summary="idea的信息,请忽略">
       <created>1524282483924</created>
@@ -1497,18 +853,54 @@
       <option name="project" value="LOCAL" />
       <updated>1524306134583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="增加mycat数据库中间件和非关系性数据库redis">
+      <created>1524326557887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524326557887</updated>
+    </task>
+    <task id="LOCAL-00007" summary="增加登录界面">
+      <created>1524326727963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524326727963</updated>
+    </task>
+    <task id="LOCAL-00008" summary="更新过程">
+      <created>1524327001237</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1524327001237</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改mycat账号和密码以及数据库名">
+      <created>1524358050263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1524358050263</updated>
+    </task>
+    <task id="LOCAL-00010" summary="集成通用Mapper">
+      <created>1524365237899</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1524365237899</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29565000" />
+    <option name="totallyTimeSpent" value="58793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.18454936" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.30329043" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -1516,21 +908,21 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.517194" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.45667124" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3287483" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32737276" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3933975" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3287483" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.46354884" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20886981" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.57909214" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546495" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287483" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1552,318 +944,424 @@
     <MESSAGE value="数据持久化" />
     <MESSAGE value="springBoot总模块" />
     <MESSAGE value="系统说明" />
+    <MESSAGE value="增加mycat数据库中间件和非关系性数据库redis" />
     <MESSAGE value="增加登录界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加登录界面" />
+    <MESSAGE value="更新过程" />
+    <MESSAGE value="修改mycat账号和密码以及数据库名" />
+    <MESSAGE value="集成通用Mapper" />
+    <option name="LAST_COMMIT_MESSAGE" value="集成通用Mapper" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java</url>
-          <line>13</line>
-          <properties />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/view/ContentNegotiatingViewResolver.java</url>
           <line>325</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/ModelAndView.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2-sources.jar!/org/apache/shiro/session/mgt/DefaultSessionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        <state relative-caret-position="63">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/view/ContentNegotiatingViewResolver.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0/shiro-web-1.4.0-sources.jar!/org/apache/shiro/web/session/mgt/DefaultWebSessionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2-sources.jar!/org/apache/shiro/mgt/DefaultSecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="455" selection-start-line="455" selection-end-line="455" />
+          <folding>
+            <element signature="e#5029#5030#0" expanded="true" />
+            <element signature="e#5066#5067#0" expanded="true" />
+            <element signature="e#16689#16690#0" expanded="true" />
+            <element signature="e#16754#16755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.28/tomcat-embed-core-8.5.28.jar!/org/apache/catalina/connector/CoyoteAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="329" selection-start-line="329" selection-end-line="329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="785" selection-start-line="785" selection-end-line="785" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.0.RELEASE/spring-boot-2.0.0.RELEASE.jar!/org/springframework/boot/web/servlet/ServletContextInitializerBeans.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2473">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/target/classes/com/whpu/CfsAdminApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmDepartmentEmployeeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/CmEmployeeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysPermissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysRolePermissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1193">
+          <caret line="50" column="121" selection-start-line="50" selection-start-column="121" selection-end-line="50" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/mapper/SysUserRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/IDepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/IEmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/ISysUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="229" selection-start-line="229" selection-end-line="229" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/DepartmentServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="996" selection-start-line="996" selection-end-line="996" />
+        <state relative-caret-position="54">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/HttpRange.java">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/EmployeeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-393">
-          <caret line="285" column="25" selection-start-line="285" selection-start-column="25" selection-end-line="285" selection-end-column="25" />
+        <state relative-caret-position="155">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysPermissionServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="3305" column="37" selection-start-line="3305" selection-start-column="37" selection-end-line="3305" selection-end-column="37" />
+        <state relative-caret-position="125">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin-api/src/main/java/com/whpu/SysUserService.java">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysRoleServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin-api/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/imlp/SysUserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/CfsAdminApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="20" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="55">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-common-pojo/src/main/java/com/whpu/pojo/SysUser.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.4.0/shiro-spring-1.4.0.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="54">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#2221#2222#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-common-pojo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/MySessionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-common-pojo/target/cfs-common-pojo.jar.original">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redeme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="2" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-mapper/src/main/java/com/whpu/SysUserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="252">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-service-admin/src/main/java/com/whpu/SysUserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/hello.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/js/common.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.8/HikariCP-2.7.8.jar!/com/zaxxer/hikari/HikariDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="173">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="103">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="425" selection-start-line="425" selection-end-line="425" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/img/bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/goods_detail.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
+        <state relative-caret-position="-723" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-linux/bin/mycat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/ehcache.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/cacheservice.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/index_to_charset.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/myid.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/partition-hash-int.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/partition-range-mod.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/sequence_conf.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/redeme.txt">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/login1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/logs/wrapper.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/router.xml">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json/HttpResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-469" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/startup_nowrap.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="34" column="50" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="50" />
+        <state relative-caret-position="-379">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/autopartition-long.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/init_zk_data.sh">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/exception/MsgException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/mycat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1629">
-          <caret line="440" selection-start-line="440" selection-end-line="440" selection-end-column="8" />
+        <state relative-caret-position="250">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/rehash.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/bin/xml_to_yaml.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-linux/bin/startup_nowrap.sh">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1517" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/redis-4.0.9/src/ae.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="325">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/logs/mycat.log">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/server.xml">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-common/src/main/java/com/whpu/util/json/CodeMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/CfsAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/schema.xml">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/UserShiroRealm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="6" column="80" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
+        <state relative-caret-position="266">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/logs/console.log">
+    <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/src/main/java/com/whpu/shiro/ShiroConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1125" />
+        <state relative-caret-position="69">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/mycat-mac/conf/rule.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="221">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-shiro/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/java/com/whpu/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.28/tomcat-embed-core-8.5.28.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfs-shop-admin/src/main/resources/templates/to_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
         </state>
       </provider>
     </entry>
