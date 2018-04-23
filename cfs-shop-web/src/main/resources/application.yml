@@ -15,7 +15,7 @@ spring:
   datasource:
         name: cshop
         driver-class-name: com.mysql.jdbc.Driver
-        url: jdbc:mysql://127.0.0.1:3306/cshop
+        url: jdbc:mysql://127.0.0.1:8066/cshop
         username: root
         password: fadp
         # 使用druid数据源

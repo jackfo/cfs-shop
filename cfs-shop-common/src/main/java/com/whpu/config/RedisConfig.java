@@ -10,8 +10,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class RedisConfig {
 
-    @Value("${spring.redis.ip}")
-    private  String ip;
+    @Value("${spring.redis.host}")
+    private  String host;
 
     @Value("${spring.redis.port}")
     private  String port;
@@ -19,7 +19,7 @@ public class RedisConfig {
     @Bean
     RedissonClient redissonClient(){
         Config config = new Config();
-        config.useSingleServer().setAddress("redis://"+ip+":"+port);
+        config.useSingleServer().setAddress("redis://"+host+":"+port);
         return Redisson.create(config);
     }
 

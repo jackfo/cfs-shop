@@ -27,7 +27,7 @@ import java.util.List;
 @Service
 public class UserServiceImlp implements IUserService,InitializingBean {
 
-    private volatile static RBloomFilter<Long> bloomFileter;
+    private volatile  RBloomFilter<Long> bloomFileter;
 
     @Autowired
     private volatile  RedissonClient redissonClient;
@@ -39,12 +39,13 @@ public class UserServiceImlp implements IUserService,InitializingBean {
     public static final String COOKI_NAME_TOKEN = "token";
 
     @Autowired
-    static MiaoshaUserMapper miaoshaUserMapper;
+    private  MiaoshaUserMapper miaoshaUserMapper;
     //疑问:既然布隆过滤器和redis都是在同一个服务端,为什么还需要布隆过滤器
     //答:如果本人有大量书籍,能够快速判断自己是否具有该书籍查找是否更好一些
     @Override
     public void afterPropertiesSet() throws Exception {
         bloomFileter   = redissonClient.getBloomFilter("BloomFilter");
+        bloomFileter.tryInit(10000000,0.1);
         List<Long> idList = miaoshaUserMapper.getMiaoShaoUserList();
         //foreach循环处理链表具有更好的效率 在数组上相对慢一点但是不会慢很多
         // 查询出所有数据,添加到布隆过滤器
