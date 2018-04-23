@@ -14,4 +14,12 @@
     <packaging>jar</packaging>
     <version>1.0-SNAPSHO</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.whpu</groupId>
+            <artifactId>cfs-shop-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>

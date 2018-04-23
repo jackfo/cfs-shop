@@ -17,6 +17,10 @@
         <module>cfs-shop-admin</module>
         <module>cfs-shop-shiro</module>
         <module>cfs-shop-web</module>
+        <module>cfs-shop-service-web</module>
+        <module>cfs-shop-service-web-api</module>
+        <module>cfs-shop-service-redis-api</module>
+        <module>cfs-shop-service-redis</module>
     </modules>
 
     <repositories>
@@ -154,6 +158,9 @@
             <artifactId>spring-data-jpa</artifactId>
             <version>1.5.2.RELEASE</version>
         </dependency>
+
+
+
     </dependencies>
 
     <build>
@@ -211,12 +218,6 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <!-- 利用属性传递版本号 -->
                 <version>${plugin.version}</version>
-                <configuration>
-                    <!-- 设置编码 -->
-                    <encoding>UTF-8</encoding>
-                    <!-- 设置名称 -->
-                    <warName>ROOT</warName>
-                </configuration>
             </plugin>
 
             <!-- maven-install-plugin插件一般不需要配置,maven3.0.4默认使用2.3.1版本的install插件 -->

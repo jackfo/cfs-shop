@@ -40,6 +40,9 @@ spring:
       show-sql: true
   aop:
     proxy-target-class: true
+  redis:
+    host: 127.0.0.1
+    port: 6379
 
 
 mybatis:
