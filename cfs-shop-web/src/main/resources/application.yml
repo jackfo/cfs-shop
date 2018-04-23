@@ -1,10 +1,9 @@
 server:
   port: 8080
   servlet:
-    context-path: /cshopadmin
+    context-path: /cshop
 
 
-#配置模板的后缀，自动读取spring.mvc.view.suffix
 spring:
   mvc:
     view:
@@ -14,9 +13,9 @@ spring:
     suffix: .html
     cache: false
   datasource:
-        name: cshopadmin
+        name: cshop
         driver-class-name: com.mysql.jdbc.Driver
-        url: jdbc:mysql://127.0.0.1:3306/cshopadmin
+        url: jdbc:mysql://127.0.0.1:3306/cshop
         username: root
         password: fadp
         # 使用druid数据源
@@ -43,17 +42,3 @@ spring:
   redis:
     host: 127.0.0.1
     port: 6379
-
-
-mybatis:
-  mapper-locations: classpath*:/com/whpu.model/*Mapper.xml
-
-
-
-spring:
-  redis:
-     shiro:
-        host: 127.0.0.1
-        port: 6379
-        timeout: 0
-        password:

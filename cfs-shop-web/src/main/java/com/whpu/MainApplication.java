@@ -11,7 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
  * */
 @Configurable
 @SpringBootApplication
-@ComponentScan(basePackages = {"com.whpu.controller.miaosha","com.whpu.service"})
+@ComponentScan(basePackages = {"com.whpu.controller.miaosha","com.whpu.service","com.whpu.config"})
 public class MainApplication {
 
     public static void main(String[] args) {
