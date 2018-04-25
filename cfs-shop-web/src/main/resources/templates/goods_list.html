@@ -23,7 +23,7 @@
             width:100%;
         }
         body{
-            background:url('/img/bg2.jpg') no-repeat;
+            background:url('/cshop/img/bg2.jpg') no-repeat;
             background-size:100% 100%;
         }
         #goodslist td{
@@ -43,7 +43,7 @@
                 <td th:text="${goods.goodsPrice}"></td>  
                 <td th:text="${goods.miaoshaPrice}"></td>  
                 <td th:text="${goods.stockCount}"></td>
-                <td><a th:href="'/goods_detail.htm?goodsId='+${goods.id}">详情</a></td>  
+                <td><a th:href="'/cshop/goods/goods_detail?goodsId='+${goods.id}">详情</a></td>
      </tr>  
   </table>
 </div>

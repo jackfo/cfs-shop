@@ -13,8 +13,7 @@ import org.springframework.context.annotation.ComponentScan;
 @Configurable
 @SpringBootApplication
 @ComponentScan(
-  basePackages = {"com.whpu.controller.miaosha","com.whpu.service",
-          "com.whpu.config"}
+  basePackages = {"com.whpu","com.miaosha.model"}
 )
 @MapperScan("com.miaosha.mapper")
 public class MainApplication {

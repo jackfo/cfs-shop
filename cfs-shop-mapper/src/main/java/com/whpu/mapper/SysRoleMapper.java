@@ -1,5 +1,6 @@
 package com.whpu.mapper;
 
+
 import com.github.mapper.common.Mapper;
 import com.whpu.model.SysRole;
 import org.apache.ibatis.annotations.Param;

@@ -10,6 +10,7 @@ import com.whpu.util.cache.BloomFileter;
 import com.whpu.util.exception.MsgException;
 import com.whpu.util.json.CodeMsg;
 import com.whpu.util.redisson.RedissonUtil;
+import com.whpu.util.validator.MD5Util;
 import org.redisson.Redisson;
 import org.redisson.api.RBloomFilter;
 import org.redisson.api.RLock;
@@ -19,6 +20,7 @@ import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.annotation.Resource;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletResponse;
 import javax.validation.constraints.NotNull;
@@ -38,7 +40,7 @@ public class UserServiceImlp implements IUserService,InitializingBean {
 
     public static final String COOKI_NAME_TOKEN = "token";
 
-    @Autowired
+    @Resource
     private  MiaoshaUserMapper miaoshaUserMapper;
     //疑问:既然布隆过滤器和redis都是在同一个服务端,为什么还需要布隆过滤器
     //答:如果本人有大量书籍,能够快速判断自己是否具有该书籍查找是否更好一些
@@ -83,6 +85,7 @@ public class UserServiceImlp implements IUserService,InitializingBean {
                     rLock.unlock();
                 }
             }
+            return miaoshaUser;
         }
         //如果数据不存在缓存中,则直接返回
         return null;
@@ -106,21 +109,22 @@ public class UserServiceImlp implements IUserService,InitializingBean {
 
         //验证密码
         String dbPass = user.getPassword();
-        if(!password.equals(dbPass)) {
+        String saltDB = user.getSalt();
+        String calcPass = MD5Util.formPassToDBPass(password, saltDB);
+        if(!calcPass.equals(dbPass)) {
             throw new MsgException(CodeMsg.PASSWORD_ERROR);
         }
-
         //生成cookie
         String token = UUIDUtil.uuid();
         addCookie(response, token, user);
-        return null;
+        return token;
     }
 
     /**
      * 登陆成功则将用户信息添加到cookie
      * */
     private void addCookie(HttpServletResponse response, String token, MiaoshaUser user) {
-        RedissonUtil.set(Info.userToken,token,user);
+        RedissonUtil.set(Info.userToken,token,user,redissonClient);
         Cookie cookie = new Cookie(COOKI_NAME_TOKEN, token);
         cookie.setMaxAge( 3600*24 * 2);
         cookie.setPath("/");

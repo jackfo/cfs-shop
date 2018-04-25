@@ -1,27 +1,19 @@
 package com.whpu.util.redisson;
 
-import org.redisson.Redisson;
-import org.redisson.api.RedissonClient;
-import org.redisson.config.Config;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.stereotype.Component;
 
-@Component
-@ConfigurationProperties("application.yml")
+import org.redisson.api.RedissonClient;
+import org.springframework.beans.factory.annotation.Autowired;
+
+
 public class RedissonUtil {
 
-    @Autowired
-    public static RedissonClient  redissonClient;
 
 
-
-    public static void set(String area,String key,Object value){
+    public static void set(String area,String key,Object value,RedissonClient redissonClient){
         redissonClient.getMapCache(area).put(key,value);
     }
 
-    public static Object get(String area,String key){
+    public static Object get(String area,String key,RedissonClient redissonClient){
       return  redissonClient.getMapCache(area).get(key);
     }
 }

@@ -6,7 +6,9 @@
 		<!-- auto sharding by id (long) -->
 		<table name="sys_user" dataNode="dn1,dn2" primaryKey="id"  rule="mod-int"  />
         <table name="miaosha_user" dataNode="dn1,dn2" primaryKey="id" rule="mod-int"></table>
-		<!-- global table is auto cloned to all defined data nodes ,so can join 
+        <table name="goods" dataNode="dn1,dn2" primaryKey="id" rule="mod-int"></table>
+        <table name="miaosha_goods" dataNode="dn1,dn2" primaryKey="id" rule="mod-int"></table>
+		<!-- global table is auto cloned to all defined data nodes ,so can join
 			with any table whose sharding node is in the same data node -->
 		<!--<table name="company" primaryKey="ID" dataNode="dn3,dn2,dn1" rule="mod-long"/>-->
 		<!--<table name="goods" primaryKey="ID" type="global" dataNode="dn1,dn2" />-->

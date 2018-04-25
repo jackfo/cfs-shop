@@ -25,7 +25,7 @@
 			width:100%;
 		}
 		body{
-			background:url('/img/bg.jpg') no-repeat;
+			background:url('/cshop/img/bg.jpg') no-repeat;
 			background-size:100% 100%;
 			padding-top:100px;
 		}
@@ -86,7 +86,7 @@ function doLogin(){
 	var password = md5(str);
 	
 	$.ajax({
-		url: "/login/do_login",
+		url: "/cshop/login/do_login",
 	    type: "POST",
 	    data:{
 	    	mobile:$("#mobile").val(),
@@ -96,7 +96,7 @@ function doLogin(){
 	    	layer.closeAll();
 	    	if(data.code == 0){
 	    		layer.msg("成功");
-	    		window.location.href="/goods/to_list";
+	    		window.location.href="/cshop/goods/to_list";
 	    	}else{
 	    		layer.msg(data.msg);
 	    	}

@@ -1,12 +1,23 @@
 package com.miaosha.model;
 
+import javax.persistence.Column;
+import javax.persistence.Table;
+
+@Table(name="goods")
 public class Goods {
+
 	private Long id;
+	@Column(name="goods_name")
 	private String goodsName;
+    @Column(name="goods_title")
 	private String goodsTitle;
+    @Column(name="goods_img")
 	private String goodsImg;
+    @Column(name="goods_detail")
 	private String goodsDetail;
+    @Column(name="goods_price")
 	private Double goodsPrice;
+    @Column(name="goods_stock")
 	private Integer goodsStock;
 	public Long getId() {
 		return id;

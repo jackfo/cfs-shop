@@ -1,11 +1,19 @@
 package com.miaosha.model;
 
+import javax.persistence.Column;
+import javax.persistence.Table;
 import java.util.Date;
 
+@Table(name = "goods_vo")
 public class GoodsVo extends Goods{
+
+    @Column(name = "miaosha_price")
 	private Double miaoshaPrice;
+    @Column(name = "stock_count")
 	private Integer stockCount;
+    @Column(name = "start_date")
 	private Date startDate;
+    @Column(name = "end_date")
 	private Date endDate;
 	public Integer getStockCount() {
 		return stockCount;
