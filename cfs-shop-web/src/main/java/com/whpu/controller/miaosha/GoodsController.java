@@ -7,6 +7,7 @@ import com.miaosha.model.MiaoshaUser;
 import com.whpu.constant.Info;
 import com.whpu.service.IGoodsService;
 import com.whpu.service.IRedisService;
+import com.whpu.web.controller.BaseController;
 import org.redisson.api.RMapCache;
 import org.redisson.api.RedissonClient;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,7 +31,7 @@ import java.util.concurrent.TimeUnit;
 
 @Controller
 @RequestMapping("/goods")
-public class GoodsController {
+public class GoodsController extends BaseController {
 
     @Autowired
     IGoodsService goodServiceImpl;

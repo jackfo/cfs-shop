@@ -4,6 +4,7 @@ import com.miaosha.mapper.MiaoshaUserMapper;
 import com.miaosha.model.LoginVo;
 import com.miaosha.model.MiaoshaUser;
 import com.whpu.constant.Info;
+import com.whpu.constant.UserInformation;
 import com.whpu.service.IUserService;
 import com.whpu.util.UUIDUtil;
 import com.whpu.util.cache.BloomFileter;
@@ -11,17 +12,16 @@ import com.whpu.util.exception.MsgException;
 import com.whpu.util.json.CodeMsg;
 import com.whpu.util.redisson.RedissonUtil;
 import com.whpu.util.validator.MD5Util;
+import com.whpu.web.pojo.SessionUser;
 import org.redisson.Redisson;
-import org.redisson.api.RBloomFilter;
-import org.redisson.api.RLock;
-import org.redisson.api.RMapCache;
-import org.redisson.api.RedissonClient;
+import org.redisson.api.*;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.validation.constraints.NotNull;
 import java.util.List;
@@ -102,30 +102,50 @@ public class UserServiceImlp implements IUserService,InitializingBean {
             throw new MsgException(CodeMsg.SERVER_ERROR);
         }
         //根据手机号获取用户
-        MiaoshaUser user = getById(Long.parseLong(mobile));
-        if(user == null) {
+        MiaoshaUser miaoshaUser = getById(Long.parseLong(mobile));
+        if(miaoshaUser == null) {
             throw new MsgException(CodeMsg.MOBILE_NOT_EXIST);
         }
 
         //验证密码
-        String dbPass = user.getPassword();
-        String saltDB = user.getSalt();
+        String dbPass = miaoshaUser.getPassword();
+        String saltDB = miaoshaUser.getSalt();
         String calcPass = MD5Util.formPassToDBPass(password, saltDB);
         if(!calcPass.equals(dbPass)) {
             throw new MsgException(CodeMsg.PASSWORD_ERROR);
         }
         //生成cookie
         String token = UUIDUtil.uuid();
-        addCookie(response, token, user);
+        SessionUser user = new SessionUser();
+        user.setUserId(miaoshaUser.getId());
+        addCookie(response, token, user,miaoshaUser);
         return token;
     }
 
     /**
-     * 登陆成功则将用户信息添加到cookie
+     * 登录成功先将用户信息添加到redi服务端,在将相应的令牌添加到cookie中去
      * */
-    private void addCookie(HttpServletResponse response, String token, MiaoshaUser user) {
-        RedissonUtil.set(Info.userToken,token,user,redissonClient);
-        Cookie cookie = new Cookie(COOKI_NAME_TOKEN, token);
+    private void addCookie(HttpServletResponse response, String token, SessionUser sessionUser) {
+        //RedissonUtil.set(UserInformation.token_user,token,user,redissonClient);
+        redissonClient.getMap(UserInformation.token_user).put(token,sessionUser);
+        Cookie cookie = new Cookie(UserInformation.userToken, token);
+        cookie.setMaxAge( 3600*24 * 2);
+        cookie.setPath("/");
+        response.addCookie(cookie);
+    }
+
+    /**
+     * 将当前会话的用户添加到redis 以及将相应秒杀实例添加到redis
+     * 并将相应令牌添加到cookie中去
+     * */
+    private void addCookie(HttpServletResponse response,String token,SessionUser sessionUser,MiaoshaUser miaoshaUser){
+        //RedissonUtil.set(UserInformation.token_user,token,sessionUser,redissonClient);
+        redissonClient.getMap(UserInformation.token_user).put(token,sessionUser);
+
+        RMap<Long,MiaoshaUser> miaoshaUserRMap = redissonClient.getMap(UserInformation.miaoShaUser);
+        //RedissonUtil.set(UserInformation.miaoShaUser,sessionUser.getUserId(),miaoshaUser,redissonClient);
+        miaoshaUserRMap.put(sessionUser.getUserId(),miaoshaUser);
+        Cookie cookie = new Cookie(UserInformation.userToken, token);
         cookie.setMaxAge( 3600*24 * 2);
         cookie.setPath("/");
         response.addCookie(cookie);

@@ -5,6 +5,7 @@ import org.redisson.api.RedissonClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+//TODO:在cfs-shop-common中添加 目前为添加到服务
 @Service
 public class RedisServiceImpl<T,V> implements IRedisService<T,V> {
 
